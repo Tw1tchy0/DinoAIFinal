@@ -1,0 +1,512 @@
+[
+  {
+    "generation": 1,
+    "topScore": 0,
+    "lastGenerationScore": 369,
+    "averageScore": 191.928
+  },
+  {
+    "generation": 2,
+    "topScore": 369,
+    "lastGenerationScore": 330,
+    "averageScore": 233.208
+  },
+  {
+    "generation": 3,
+    "topScore": 369,
+    "lastGenerationScore": 756,
+    "averageScore": 236.29
+  },
+  {
+    "generation": 4,
+    "topScore": 756,
+    "lastGenerationScore": 306,
+    "averageScore": 235.682
+  },
+  {
+    "generation": 5,
+    "topScore": 756,
+    "lastGenerationScore": 465,
+    "averageScore": 198.436
+  },
+  {
+    "generation": 6,
+    "topScore": 756,
+    "lastGenerationScore": 425,
+    "averageScore": 240.398
+  },
+  {
+    "generation": 7,
+    "topScore": 756,
+    "lastGenerationScore": 401,
+    "averageScore": 214.464
+  },
+  {
+    "generation": 8,
+    "topScore": 756,
+    "lastGenerationScore": 371,
+    "averageScore": 206.632
+  },
+  {
+    "generation": 9,
+    "topScore": 756,
+    "lastGenerationScore": 900,
+    "averageScore": 232.692
+  },
+  {
+    "generation": 10,
+    "topScore": 900,
+    "lastGenerationScore": 477,
+    "averageScore": 238.928
+  },
+  {
+    "generation": 11,
+    "topScore": 900,
+    "lastGenerationScore": 547,
+    "averageScore": 217.976
+  },
+  {
+    "generation": 12,
+    "topScore": 900,
+    "lastGenerationScore": 594,
+    "averageScore": 205.676
+  },
+  {
+    "generation": 13,
+    "topScore": 900,
+    "lastGenerationScore": 1188,
+    "averageScore": 211.21
+  },
+  {
+    "generation": 14,
+    "topScore": 1188,
+    "lastGenerationScore": 823,
+    "averageScore": 214.614
+  },
+  {
+    "generation": 15,
+    "topScore": 1188,
+    "lastGenerationScore": 674,
+    "averageScore": 245.856
+  },
+  {
+    "generation": 16,
+    "topScore": 1188,
+    "lastGenerationScore": 577,
+    "averageScore": 215.51
+  },
+  {
+    "generation": 17,
+    "topScore": 1188,
+    "lastGenerationScore": 1136,
+    "averageScore": 246.604
+  },
+  {
+    "generation": 18,
+    "topScore": 1188,
+    "lastGenerationScore": 1199,
+    "averageScore": 273.048
+  },
+  {
+    "generation": 19,
+    "topScore": 1199,
+    "lastGenerationScore": 1124,
+    "averageScore": 362.04
+  },
+  {
+    "generation": 20,
+    "topScore": 1199,
+    "lastGenerationScore": 1298,
+    "averageScore": 291.992
+  },
+  {
+    "generation": 21,
+    "topScore": 1298,
+    "lastGenerationScore": 854,
+    "averageScore": 307.026
+  },
+  {
+    "generation": 22,
+    "topScore": 1298,
+    "lastGenerationScore": 1245,
+    "averageScore": 295.61
+  },
+  {
+    "generation": 23,
+    "topScore": 1298,
+    "lastGenerationScore": 1258,
+    "averageScore": 326.972
+  },
+  {
+    "generation": 24,
+    "topScore": 1298,
+    "lastGenerationScore": 744,
+    "averageScore": 263.672
+  },
+  {
+    "generation": 25,
+    "topScore": 1298,
+    "lastGenerationScore": 1199,
+    "averageScore": 326.762
+  },
+  {
+    "generation": 26,
+    "topScore": 1298,
+    "lastGenerationScore": 836,
+    "averageScore": 313.744
+  },
+  {
+    "generation": 27,
+    "topScore": 1298,
+    "lastGenerationScore": 729,
+    "averageScore": 324.708
+  },
+  {
+    "generation": 28,
+    "topScore": 1298,
+    "lastGenerationScore": 624,
+    "averageScore": 274.464
+  },
+  {
+    "generation": 29,
+    "topScore": 1298,
+    "lastGenerationScore": 633,
+    "averageScore": 252.678
+  },
+  {
+    "generation": 30,
+    "topScore": 1298,
+    "lastGenerationScore": 619,
+    "averageScore": 271.34
+  },
+  {
+    "generation": 31,
+    "topScore": 1298,
+    "lastGenerationScore": 1262,
+    "averageScore": 281.884
+  },
+  {
+    "generation": 32,
+    "topScore": 1298,
+    "lastGenerationScore": 934,
+    "averageScore": 330.78
+  },
+  {
+    "generation": 33,
+    "topScore": 1298,
+    "lastGenerationScore": 905,
+    "averageScore": 303.896
+  },
+  {
+    "generation": 34,
+    "topScore": 1298,
+    "lastGenerationScore": 976,
+    "averageScore": 349.988
+  },
+  {
+    "generation": 35,
+    "topScore": 1298,
+    "lastGenerationScore": 738,
+    "averageScore": 295.574
+  },
+  {
+    "generation": 36,
+    "topScore": 1298,
+    "lastGenerationScore": 2038,
+    "averageScore": 324.766
+  },
+  {
+    "generation": 37,
+    "topScore": 2038,
+    "lastGenerationScore": 1397,
+    "averageScore": 320.874
+  },
+  {
+    "generation": 38,
+    "topScore": 2038,
+    "lastGenerationScore": 922,
+    "averageScore": 312.168
+  },
+  {
+    "generation": 39,
+    "topScore": 2038,
+    "lastGenerationScore": 1011,
+    "averageScore": 302.816
+  },
+  {
+    "generation": 40,
+    "topScore": 2038,
+    "lastGenerationScore": 1491,
+    "averageScore": 389.128
+  },
+  {
+    "generation": 41,
+    "topScore": 2038,
+    "lastGenerationScore": 997,
+    "averageScore": 335.402
+  },
+  {
+    "generation": 42,
+    "topScore": 2038,
+    "lastGenerationScore": 856,
+    "averageScore": 294.896
+  },
+  {
+    "generation": 43,
+    "topScore": 2038,
+    "lastGenerationScore": 895,
+    "averageScore": 313.15
+  },
+  {
+    "generation": 44,
+    "topScore": 2038,
+    "lastGenerationScore": 894,
+    "averageScore": 307.25
+  },
+  {
+    "generation": 45,
+    "topScore": 2038,
+    "lastGenerationScore": 1213,
+    "averageScore": 341.25
+  },
+  {
+    "generation": 46,
+    "topScore": 2038,
+    "lastGenerationScore": 1694,
+    "averageScore": 321.356
+  },
+  {
+    "generation": 47,
+    "topScore": 2038,
+    "lastGenerationScore": 665,
+    "averageScore": 310.47
+  },
+  {
+    "generation": 48,
+    "topScore": 2038,
+    "lastGenerationScore": 747,
+    "averageScore": 260.394
+  },
+  {
+    "generation": 49,
+    "topScore": 2038,
+    "lastGenerationScore": 715,
+    "averageScore": 324.546
+  },
+  {
+    "generation": 50,
+    "topScore": 2038,
+    "lastGenerationScore": 636,
+    "averageScore": 339.906
+  },
+  {
+    "generation": 51,
+    "topScore": 2038,
+    "lastGenerationScore": 16682,
+    "averageScore": 304.274
+  },
+  {
+    "generation": 52,
+    "topScore": 16682,
+    "lastGenerationScore": 548,
+    "averageScore": 274.954
+  },
+  {
+    "generation": 53,
+    "topScore": 16682,
+    "lastGenerationScore": 782,
+    "averageScore": 334.702
+  },
+  {
+    "generation": 54,
+    "topScore": 16682,
+    "lastGenerationScore": 673,
+    "averageScore": 350.284
+  },
+  {
+    "generation": 55,
+    "topScore": 16682,
+    "lastGenerationScore": 910,
+    "averageScore": 341.872
+  },
+  {
+    "generation": 56,
+    "topScore": 16682,
+    "lastGenerationScore": 1371,
+    "averageScore": 324.646
+  },
+  {
+    "generation": 57,
+    "topScore": 16682,
+    "lastGenerationScore": 811,
+    "averageScore": 279.974
+  },
+  {
+    "generation": 58,
+    "topScore": 16682,
+    "lastGenerationScore": 1172,
+    "averageScore": 380.844
+  },
+  {
+    "generation": 59,
+    "topScore": 16682,
+    "lastGenerationScore": 899,
+    "averageScore": 356.45
+  },
+  {
+    "generation": 60,
+    "topScore": 16682,
+    "lastGenerationScore": 1229,
+    "averageScore": 370.66
+  },
+  {
+    "generation": 61,
+    "topScore": 16682,
+    "lastGenerationScore": 759,
+    "averageScore": 320.678
+  },
+  {
+    "generation": 62,
+    "topScore": 16682,
+    "lastGenerationScore": 1197,
+    "averageScore": 363.142
+  },
+  {
+    "generation": 63,
+    "topScore": 16682,
+    "lastGenerationScore": 928,
+    "averageScore": 358.66
+  },
+  {
+    "generation": 64,
+    "topScore": 16682,
+    "lastGenerationScore": 923,
+    "averageScore": 372.718
+  },
+  {
+    "generation": 65,
+    "topScore": 16682,
+    "lastGenerationScore": 864,
+    "averageScore": 384.492
+  },
+  {
+    "generation": 66,
+    "topScore": 16682,
+    "lastGenerationScore": 1385,
+    "averageScore": 417.926
+  },
+  {
+    "generation": 67,
+    "topScore": 16682,
+    "lastGenerationScore": 839,
+    "averageScore": 321.622
+  },
+  {
+    "generation": 68,
+    "topScore": 16682,
+    "lastGenerationScore": 1133,
+    "averageScore": 409.544
+  },
+  {
+    "generation": 69,
+    "topScore": 16682,
+    "lastGenerationScore": 695,
+    "averageScore": 319.096
+  },
+  {
+    "generation": 70,
+    "topScore": 16682,
+    "lastGenerationScore": 596,
+    "averageScore": 297.298
+  },
+  {
+    "generation": 71,
+    "topScore": 16682,
+    "lastGenerationScore": 1166,
+    "averageScore": 346.206
+  },
+  {
+    "generation": 72,
+    "topScore": 16682,
+    "lastGenerationScore": 819,
+    "averageScore": 309.41
+  },
+  {
+    "generation": 73,
+    "topScore": 16682,
+    "lastGenerationScore": 1609,
+    "averageScore": 390.508
+  },
+  {
+    "generation": 74,
+    "topScore": 16682,
+    "lastGenerationScore": 712,
+    "averageScore": 351.76
+  },
+  {
+    "generation": 75,
+    "topScore": 16682,
+    "lastGenerationScore": 917,
+    "averageScore": 320.852
+  },
+  {
+    "generation": 76,
+    "topScore": 16682,
+    "lastGenerationScore": 988,
+    "averageScore": 382.106
+  },
+  {
+    "generation": 77,
+    "topScore": 16682,
+    "lastGenerationScore": 1161,
+    "averageScore": 398.826
+  },
+  {
+    "generation": 78,
+    "topScore": 16682,
+    "lastGenerationScore": 703,
+    "averageScore": 322.966
+  },
+  {
+    "generation": 79,
+    "topScore": 16682,
+    "lastGenerationScore": 1289,
+    "averageScore": 351.186
+  },
+  {
+    "generation": 80,
+    "topScore": 16682,
+    "lastGenerationScore": 1200,
+    "averageScore": 371.72
+  },
+  {
+    "generation": 81,
+    "topScore": 16682,
+    "lastGenerationScore": 553,
+    "averageScore": 303.066
+  },
+  {
+    "generation": 82,
+    "topScore": 16682,
+    "lastGenerationScore": 872,
+    "averageScore": 316.604
+  },
+  {
+    "generation": 83,
+    "topScore": 16682,
+    "lastGenerationScore": 819,
+    "averageScore": 297.426
+  },
+  {
+    "generation": 84,
+    "topScore": 16682,
+    "lastGenerationScore": 1617,
+    "averageScore": 354.114
+  },
+  {
+    "generation": 85,
+    "topScore": 16682,
+    "lastGenerationScore": 799,
+    "averageScore": 395.894
+  }
+]

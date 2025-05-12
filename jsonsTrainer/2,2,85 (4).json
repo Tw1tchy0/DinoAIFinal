@@ -1,0 +1,512 @@
+[
+  {
+    "generation": 1,
+    "topScore": 0,
+    "lastGenerationScore": 569,
+    "averageScore": 201.91
+  },
+  {
+    "generation": 2,
+    "topScore": 569,
+    "lastGenerationScore": 399,
+    "averageScore": 193.998
+  },
+  {
+    "generation": 3,
+    "topScore": 569,
+    "lastGenerationScore": 283,
+    "averageScore": 197.566
+  },
+  {
+    "generation": 4,
+    "topScore": 569,
+    "lastGenerationScore": 716,
+    "averageScore": 240.984
+  },
+  {
+    "generation": 5,
+    "topScore": 716,
+    "lastGenerationScore": 650,
+    "averageScore": 244.456
+  },
+  {
+    "generation": 6,
+    "topScore": 716,
+    "lastGenerationScore": 368,
+    "averageScore": 187.88
+  },
+  {
+    "generation": 7,
+    "topScore": 716,
+    "lastGenerationScore": 1271,
+    "averageScore": 247.096
+  },
+  {
+    "generation": 8,
+    "topScore": 1271,
+    "lastGenerationScore": 732,
+    "averageScore": 228.768
+  },
+  {
+    "generation": 9,
+    "topScore": 1271,
+    "lastGenerationScore": 1133,
+    "averageScore": 217.488
+  },
+  {
+    "generation": 10,
+    "topScore": 1271,
+    "lastGenerationScore": 2460,
+    "averageScore": 239.116
+  },
+  {
+    "generation": 11,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 12,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 13,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 14,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 15,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 16,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 17,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 18,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 19,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 20,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 21,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 22,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 23,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 24,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 25,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 26,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 27,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 28,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 29,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 30,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 31,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 32,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 33,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 34,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 35,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 36,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 37,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 38,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 39,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 40,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 41,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 42,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 43,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 44,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 45,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 46,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 47,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 48,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 49,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 50,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 51,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 52,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 53,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 54,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 55,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 56,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 57,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 58,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 59,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 60,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 61,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 62,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 63,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 64,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 65,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 66,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 67,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 68,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 69,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 70,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 71,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 72,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 73,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 74,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 75,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 76,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 77,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 78,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 79,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 80,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 81,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 82,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 83,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 84,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  },
+  {
+    "generation": 85,
+    "topScore": 100000,
+    "lastGenerationScore": 100000,
+    "averageScore": 100000
+  }
+]
