@@ -1,6 +1,4 @@
-# Evolving Chrome Dino AI Using NEAT: Neuroevolution in an
-
-# Obstacle Avoidance Game
+# Evolving Chrome Dino AI Using NEAT: Neuroevolution in an Obstacle Avoidance Game
 
 
 ## Rationale or Goals and Purposes of the Project
