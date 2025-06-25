@@ -2,14 +2,6 @@
 
 # Obstacle Avoidance Game
 
-### Aviv Bitton
-
-### adb241@rutgers.edu
-
-### Section: CS 440-
-
-### May 2025
-
 
 ## Rationale or Goals and Purposes of the Project
 
